@@ -158,7 +158,7 @@ const ALLOWED_ORIGINS = [
     'portfolio-itom.pages.dev',
     'localhost',
     '127.0.0.1',
-    'mariya.ansari',
+    'kunal.jha',
 ];
 
 // ═══════════════════════════════════════════════════════════════════════

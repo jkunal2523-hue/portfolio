@@ -8,7 +8,7 @@ const RUBIK_SCRIBBLE_URL = '/fonts/RubikScribble-Regular.ttf';
 const CABIN_SKETCH_URL = '/fonts/CabinSketch-Regular.ttf';
 
 /**
- * HeroText Component - Custom styled for Mariya Ansari
+ * HeroText Component - Custom styled for KUNAL JHA
  */
 const HeroText = ({ position = [0, 0.3, 0] }) => {
     const groupRef = useRef();
@@ -43,13 +43,13 @@ const HeroText = ({ position = [0, 0.3, 0] }) => {
     const floatY = useRef(0);
     const worldPosVec = useRef(new THREE.Vector3());
 
-    // Letter positions for MARIYA split effect
+    // Letter positions for KUNAL split effect
     const letters = useMemo(() => [
-        { char: 'M', baseX: -1.25, splitDir: -2.0 },
-        { char: 'A', baseX: -0.75, splitDir: -1.2 },
-        { char: 'R', baseX: -0.25, splitDir: -0.4 },
-        { char: 'I', baseX: 0.25, splitDir: 0.4 },
-        { char: 'Y', baseX: 0.75, splitDir: 1.2 },
+        { char: 'K', baseX: -1.25, splitDir: -2.0 },
+        { char: 'U', baseX: -0.75, splitDir: -1.2 },
+        { char: 'N', baseX: -0.25, splitDir: -0.4 },
+        { char: 'A', baseX: 0.25, splitDir: 0.4 },
+        { char: 'L', baseX: 0.75, splitDir: 1.2 },
         { char: 'A', baseX: 1.25, splitDir: 2.0 },
     ], []);
 
@@ -88,7 +88,7 @@ const HeroText = ({ position = [0, 0.3, 0] }) => {
 
         splitAmount.current = THREE.MathUtils.lerp(splitAmount.current, targetSplit.current, 0.08);
 
-        // Apply split to each letter of MARIYA
+        // Apply split to each letter of KUNAL
         letterRefs.current.forEach((ref, i) => {
             if (ref) {
                 if (ref.material) ref.material.opacity = 1;
@@ -119,7 +119,7 @@ const HeroText = ({ position = [0, 0.3, 0] }) => {
 
     return (
         <group ref={groupRef} position={position} scale={[scale, scale, 1]}>
-            {/* MARIYA Letters */}
+            {/* KUNAL Letters */}
             {letters.map((letter, i) => (
                 <Text
                     key={`${letter.char}-${i}`}

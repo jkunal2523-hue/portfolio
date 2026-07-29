@@ -107,7 +107,7 @@ export default function Preloader({ onComplete }) {
             lineHeight: 1
           }}
         >
-          MARIYA
+          KUNAL
         </h1>
         <div
           ref={counterRef}

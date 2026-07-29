@@ -116,7 +116,7 @@ const CorridorSegment = ({
                 zClip={zClip}
             />
 
-            {/* === MARIYANOLOGY BRAND SIGN ON SIDE WALL === */}
+            {/* === KUNAL JHA BRAND SIGN ON SIDE WALL === */}
             <Text
                 position={[-3.46, 0.4, zOffset - 8]}
                 rotation={[0, Math.PI / 2, 0]}
@@ -126,7 +126,7 @@ const CorridorSegment = ({
                 anchorY="middle"
                 font="/fonts/CabinSketch-Bold.ttf"
             >
-                MARIYANOLOGY
+                KUNAL JHA
             </Text>
 
             {/* === WELCOME AREA (Start of segment) - MOVED CLOSER === */}

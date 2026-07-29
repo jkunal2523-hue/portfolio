@@ -114,7 +114,7 @@ export default function Contact() {
                   Write me an email
                 </span>
                 <a
-                  href="mailto:mariya.ansari@example.com"
+                  href="mailto:jkunal2523@gmail.com"
                   style={{
                     fontSize: '1.15rem',
                     color: 'var(--text-primary)',
@@ -124,7 +124,7 @@ export default function Contact() {
                   }}
                   className="contact-item-hover"
                 >
-                  mariya.ansari@example.com
+                  jkunal2523@gmail.com
                 </a>
               </div>
 

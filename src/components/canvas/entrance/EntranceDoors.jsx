@@ -709,7 +709,7 @@ const EntranceDoors = ({
                         anchorY="middle"
                         font="/fonts/CabinSketch-Bold.ttf"
                     >
-                        @mariyanology
+                        @kunal_252318
                     </Text>
                 </group>
 

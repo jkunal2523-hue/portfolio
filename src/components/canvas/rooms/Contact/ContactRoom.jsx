@@ -409,7 +409,7 @@ const ContactRoom = ({ showRoom, onReady, isExiting, isWarmup }) => {
                 rotation={[0, 0.3, 0]}
                 texturePath="/textures/contact/beczka.webp"
                 label="YOUTUBE"
-                onClick={() => window.open('https://www.youtube.com/@Mariyanology', '_blank')}
+                onClick={() => window.open('https://www.youtube.com/@Kunalology', '_blank')}
                 paintOnBeforeCompile={onBeforeCompile}
                 paintUniforms={uniformsData}
             />
@@ -429,7 +429,7 @@ const ContactRoom = ({ showRoom, onReady, isExiting, isWarmup }) => {
                 rotation={[0, -0.3, 0]}
                 texturePath="/textures/contact/beczka.webp"
                 label="INSTAGRAM"
-                onClick={() => window.open('https://www.instagram.com/mariyanology?igsh=ZTRzMmRmN25uaTg=', '_blank')}
+                onClick={() => window.open('https://www.instagram.com/kunalology?igsh=ZTRzMmRmN25uaTg=', '_blank')}
                 paintOnBeforeCompile={onBeforeCompile}
                 paintUniforms={uniformsData}
             />

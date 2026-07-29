@@ -117,20 +117,20 @@ const FALLBACK_PROJECTS = [
         techStack: ['/textures/gallery/wordpresslogo.webp', '/textures/gallery/phplogo.webp', '/textures/gallery/htmllogo.webp', '/textures/gallery/csslogo.webp']
     },
     {
-        id: 'mariyahost',
-        title: 'MARIYAHOST.COM',
+        id: 'kunalhost',
+        title: 'KUNALHOST.COM',
         front: '/textures/gallery/bioprzod.webp',
         painted: '/textures/gallery/bioprzod_painted.webp',
-        url: 'https://mariyahost.com',
+        url: 'https://kunalhost.com',
         description: 'A high-performance cloud hosting and domain provision platform optimized for WordPress and creator portfolios.',
         techStack: ['/textures/gallery/wordpresslogo.webp', '/textures/gallery/phplogo.webp', '/textures/gallery/htmllogo.webp', '/textures/gallery/csslogo.webp']
     },
     {
-        id: 'mariyanology',
-        title: 'MARIYANOLOGY.COM',
+        id: 'kunaljha',
+        title: 'KUNALJHA.COM',
         front: '/textures/gallery/youngmultiprzod.webp',
         painted: '/textures/gallery/youngmultiprzod_painted.webp',
-        url: 'https://mariyanology.com',
+        url: 'https://kunaljha.com',
         description: 'Personal hub and digital creator blog sharing WordPress REST APIs, blogging tactics, and AdSense optimization case studies.',
         techStack: ['/textures/gallery/wordpresslogo.webp', '/textures/gallery/phplogo.webp', '/textures/gallery/reactlogo.webp', '/textures/gallery/csslogo.webp']
     },
