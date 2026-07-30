@@ -103,7 +103,7 @@ export const projects = [
     tags: ["WordPress", "SEO", "AdSense", "Canva Design"],
     image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=800&q=80",
     caseStudy: {
-      overview: "Kunalyanology is a publishing project and digital brand focused on making web creation, frontend development, and online business platforms accessible to beginners.",
+      overview: "Kunalnology is a publishing project and digital brand focused on making web creation, frontend development, and online business platforms accessible to beginners.",
       challenge: "Creating a high-performance content hub requires balancing ad-networks and analytics scripts without destroying mobile core web vitals.",
       approach: "Optimized script loading priorities, deferred non-critical resources, and built customized UI elements using Canva for graphic assets and clean modern typography.",
       solution: "Configured advanced cloud-edge caching, deferred Google AdSense and analytics scripts until user interaction, and optimized image compression ratios.",

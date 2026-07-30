@@ -77,10 +77,9 @@ export default function Navigation() {
               alignItems: 'center',
               gap: '6px'
             }}
-          >
-            <span style={{ color: 'var(--accent-secondary)' }}>M.</span>ANSARI
-          </a>
-
+             >
+            <span style={{ color: 'var(--accent-secondary)' }}>M.</span>JHA         
+  </a>
           {/* Desktop Navigation Links */}
           <nav
             style={{

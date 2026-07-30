@@ -1,7 +1,7 @@
 /**
  * Studio Content Data
  * 
- * Custom content forkunalya Ansari's monitor towers.
+ * Custom content for KUNAL JHA's monitor towers.
  */
 
 export const PLATFORM_CONFIG = {
